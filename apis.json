@@ -1,0 +1,44 @@
+{
+    "name": "Light Blue Touchpaper",
+    "description": "Light Blue Touchpaper is a weblog written by researchers in the Security Group at the University of Cambridge Computer Laboratory. Read here brief and timely essays on recent developments and topics related to computer security, including pointers to interesting new research results and literature, opinions on current developments, commentary on media coverage and other musings.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Light_Blue_Touchpaper___Security_Research__Computer_Laboratory__University_of_Cambridge.png",
+    "tags": [
+        "have api",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/light-blue-touchpaper\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Light Blue Touchpaper",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Light_Blue_Touchpaper___Security_Research__Computer_Laboratory__University_of_Cambridge.png",
+            "humanURL": "https:\/\/www.lightbluetouchpaper.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/light-blue-touchpaper-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/light-blue-touchpaper-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.lightbluetouchpaper.org\/feed\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.lightbluetouchpaper.org"
+        }
+    ]
+}
